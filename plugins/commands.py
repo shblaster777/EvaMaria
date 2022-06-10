@@ -42,7 +42,7 @@ async def start(client, message):
             InlineKeyboardButton('🔍 Search', switch_inline_query_current_chat=''),
             InlineKeyboardButton('🤖 Updates', url='https://t.me/SHProSearchbot')
             ],[ 
-            InlineKeyboardButton('🤖 Group', url='https://t.me/SHProSearchbot')
+            InlineKeyboardButton('🤖 Group', url='https://t.me/+esGJ1JZxa0VjYzdl')
             ],[
             InlineKeyboardButton('ℹ️ Help', callback_data='help'),
             InlineKeyboardButton('😊 About', callback_data='about')
@@ -85,7 +85,7 @@ async def start(client, message):
             InlineKeyboardButton('🔍 Search', switch_inline_query_current_chat=''),
             InlineKeyboardButton('🤖 Updates', url='https://t.me/SHProSearchbot')
             ],[
-            InlineKeyboardButton('🤖 Group', url='https://t.me/SHProSearchbot')
+            InlineKeyboardButton('🤖 Group', url='https://t.me/+esGJ1JZxa0VjYzdl')
             ],[
             InlineKeyboardButton('ℹ️ Help', callback_data='help'),
             InlineKeyboardButton('😊 About', callback_data='about')
