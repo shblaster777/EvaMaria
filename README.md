@@ -49,6 +49,8 @@
 ## Deploy
 You can deploy this bot anywhere.
 
+<a target="_blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/gangstar1010/EvaMaria&branch=master&name=gangstarbot"><img alt="Deploy to Koyeb" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg"></a>
+
 <i>**[Watch Deploying Tutorial...](https://youtu.be/1G1XwEOnxxo)**</i>
 
 <details><summary>Deploy To Koyeb</summary>
