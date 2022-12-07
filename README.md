@@ -51,10 +51,10 @@ You can deploy this bot anywhere.
 
 <i>**[Watch Deploying Tutorial...](https://youtu.be/1G1XwEOnxxo)**</i>
 
-<details><summary>Deploy To Heroku</summary>
+<details><summary>Deploy To Koyeb</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/gangstar1010/EvaMaria.git">
+<a href="https://koyeb.com/deploy?template=https://github.com/gangstar1010/EvaMaria.git">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
